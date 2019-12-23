@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">云交通</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">？先生</string>
+    <string name="nav_header_subtitle">1111111@qq.com</string>
+    <string name="nav_header_desc">xxxxxxx</string>
+    <string name="action_settings">设置</string>
+    <string name="action_stable">切换沙盘地址</string>
+    <string name="action_close">关闭软件</string>
+    <string name="action_logoff">注销账户</string>
+    <string name="main_name">xxx</string>
+    <string name="main_subtitle">1234678@qq.com</string>
+    <string name="main_desc">1???????</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_car">我的车辆</string>
+    <string name="menu_env">出行环境</string>
+    <string name="menu_road">道路状况</string>
+    <string name="menu_bus">公交车辆</string>
+    <string name="menu_custom">创意模块</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_help">客服</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
